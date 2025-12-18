@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "SampleLib.h"
+#include "bibliotheque.h"
 int main( void ) {
 int result = power( 2, 3 );
 int first=10,second=20;
